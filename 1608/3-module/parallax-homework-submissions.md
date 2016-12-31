@@ -12,3 +12,5 @@ Christine Gamble:
 [Fixed Parallax](https://github.com/ccgamble/parallax/tree/cg-fixed-background)
 [Dynamic Parallax](https://github.com/ccgamble/parallax/tree/cg-dynamic-parallax)
 
+Kinan Whyte:
+[Fixed & Dynamic Parallax](https://github.com/kswhyte/parallax)
